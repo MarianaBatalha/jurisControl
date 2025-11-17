@@ -1,0 +1,5 @@
+{
+  "name": "JurisControl - Labor Law Controller",
+  "description": "An executive dashboard for managing and tracking labor law processes and payments, providing a clear overview of active cases, pending payments, and recent activities.",
+  "requestFramePermissions": []
+}
